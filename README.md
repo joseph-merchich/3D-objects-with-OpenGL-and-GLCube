@@ -4,7 +4,7 @@ Requires Pygame, OpenGl, and GlCube.
 
 How to install:
 
-pygame: `pip install pygame` or whatever your machines command prompt uses.
+pygame: `pip install pygame` or whatever your machines' command prompt uses.
 
 GLCube: `pip install pyopengl numpy`
 
