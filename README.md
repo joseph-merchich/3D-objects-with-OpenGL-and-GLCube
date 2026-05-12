@@ -2,7 +2,8 @@
 Simple examples of 3D objects OpenGL and GLCube.
 Requires Pygame, OpenGl, and GlCube.
 
-Example image: <img width="722" height="495" alt="Screenshot 2026-05-12 113909" src="https://github.com/user-attachments/assets/14a0edb8-1292-4c22-96bd-6b3849258541" />
+<img width="1185" height="738" alt="Screenshot 2026-05-12 114037" src="https://github.com/user-attachments/assets/93f906ab-3035-4751-afd8-c4a8a1848266" />
+
 
 How to install in the terminal:
 
