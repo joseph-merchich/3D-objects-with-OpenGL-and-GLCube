@@ -4,7 +4,7 @@ from OpenGL.GL import *
 from OpenGL.GLU import *
 
 display = (800, 600)
-pygame.display.set_mode(display, DOUBLEBUF|OPENGL)
+pygame.display.set_mode(display, DOUBLEBUF|OPENGL|pygame.RESIZABLE)
 pygame.display.set_caption("Sample Python OpenGL - Cube")
 
 gluPerspective(45, (display[0]/display[1]), 0.1, 50)

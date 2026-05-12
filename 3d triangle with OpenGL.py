@@ -5,7 +5,7 @@ from OpenGL.GLU import *
 
 pygame.init()
 display = (800, 600)
-pygame.display.set_mode(display, OPENGL | DOUBLEBUF)
+pygame.display.set_mode(display, OPENGL | DOUBLEBUF | pygame.RESIZABLE)
 
 # Set up the camera perspective
 gluPerspective(45, (display[0] / display[1]), 0.1, 50.0)
